@@ -1,0 +1,73 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-color: #f6704b;
+}
+
+.ba-main{
+	width: 380px;
+	margin: 75px auto;
+}
+
+.first{
+	background-color: #620808;
+}
+
+.first a{
+	color: #ffe9c1;
+}
+
+.second{
+	background-color: #a53f3f;
+}
+
+.second a{
+	color: #f4ce74;
+}
+
+.third{
+	background-color: #f4ce74;
+}
+
+.third a{
+	color: #620808;
+}
+
+.fourth{
+	background-color: #ffe9c1;
+}
+
+.fourth a{
+	color: #a53f3f;
+}
+
+.five{
+	background-color: #d5441c;
+}
+
+.five a{
+	color: #ffe9c1;
+}
+
+.panel-heading{
+	height: 100px;
+	cursor: pointer;
+}
+
+.panel-heading a{
+	font-size: 24px;
+	font-weight: 400;
+	text-decoration: none;
+}
+
+.panel-heading img{
+	padding-top: 25px;
+	padding-left: 25px;
+}
+
+.panel-collapse{
+	display: none;
+}
